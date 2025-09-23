@@ -33,10 +33,11 @@
 </div>
 <hr>
 
+### 📊 Estatísticas do GitHub
+
 <div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=[Pedroizy]&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Pedroizy]&theme=tokyonight&hide_border=true" alt="Estatísticas de Contribuição">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedroizy&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedroizy&theme=tokyonight&hide_border=true" alt="Estatísticas de Contribuição">
 </div>
 <hr>
 
