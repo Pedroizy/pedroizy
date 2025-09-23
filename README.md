@@ -1,8 +1,9 @@
-## Hi there 👋
 <div align="center">
-  <h1>Olá, eu sou Pedro Izídio! 👋</h1>
+  <h1>Olá👋, Me chamo Pedro Izídio!</h1>
 </div>
-
+<div align="center">
+  <h1>Analise de daods e backend são minhas paixões no mundo da tecnologia</h1>
+</div>
 ---
 
 <div align="center">
