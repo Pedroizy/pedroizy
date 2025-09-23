@@ -1,7 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://github.com/marlon-moraes.png" width="150" height="150" style="border-radius:50%;" alt="Sua foto de perfil">
-  <h1>Olá, eu sou [Seu Nome]! 👋</h1>
+  <h1>Olá, eu sou Pedro Izídio! 👋</h1>
 </div>
 
 ---
