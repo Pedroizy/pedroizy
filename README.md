@@ -9,7 +9,7 @@
   <ul>
     <li>🔨 Atualmente estou focado em <b>Analise de Dados</b> e <b>Back-End</b> com Node.js.</li>
     <li>💻 Desenvolvendo uma API em <b>Node.js</b> (projeto acadêmico).</li>
-    <li>⌚ Aprendendo <b>Java</b> e <b>SpringBoot</b> (atualemnte conhecimento basico).</li>
+    <li>⌚ Aprendendo <b>Java</b> e <b>SpringBoot</b> (atualmente conhecimento basico).</li>
     <li>🎮 Fã de <b>Mortal Kombat</b>.</li>
   </ul>
 </div>
